@@ -1,0 +1,8 @@
+E:\Visuale Studio\Console App\logics\logics\bin\Debug\logics.exe.config
+E:\Visuale Studio\Console App\logics\logics\bin\Debug\logics.exe
+E:\Visuale Studio\Console App\logics\logics\bin\Debug\logics.pdb
+E:\Visuale Studio\Console App\logics\logics\obj\Debug\logics.csproj.AssemblyReference.cache
+E:\Visuale Studio\Console App\logics\logics\obj\Debug\logics.csproj.SuggestedBindingRedirects.cache
+E:\Visuale Studio\Console App\logics\logics\obj\Debug\logics.csproj.CoreCompileInputs.cache
+E:\Visuale Studio\Console App\logics\logics\obj\Debug\logics.exe
+E:\Visuale Studio\Console App\logics\logics\obj\Debug\logics.pdb
